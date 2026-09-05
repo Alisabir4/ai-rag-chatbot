@@ -1103,3 +1103,12 @@ if question:
             "sources": sources
         }
     )
+    st.markdown(
+    """
+    <hr>
+    <div style="text-align: center;">
+        <p>Developed by <b>Ali Sabir</b></p>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
