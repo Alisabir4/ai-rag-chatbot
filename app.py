@@ -1103,7 +1103,7 @@ if question:
             "sources": sources
         }
     )
-    st.markdown(
+st.markdown(
     """
     <hr>
     <div style="text-align: center;">
