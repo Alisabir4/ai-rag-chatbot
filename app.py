@@ -1105,9 +1105,8 @@ if question:
     )
 st.markdown(
     """
-    <hr>
-    <div style="text-align: center;">
-        <p>Developed by <b>Ali Sabir</b></p>
+    <div style="text-align: right; padding: 10px;">
+        Developed by <b>Ali Sabir</b>
     </div>
     """,
     unsafe_allow_html=True
